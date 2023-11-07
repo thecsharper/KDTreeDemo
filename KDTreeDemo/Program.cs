@@ -1,6 +1,8 @@
 ﻿using KdTree.Math;
 using KdTree;
 
+// https://github.com/codeandcats/KdTree/tree/master
+
 var tree = new KdTree<float, int>(2, new FloatMath())
 {
     { new[] { 50.0f, 80.0f }, 100 },
