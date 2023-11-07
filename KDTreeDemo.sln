@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDTreeDemo", "KDTreeDemo\KDTreeDemo.csproj", "{E254A60D-F78A-4B9A-8F75-B4F56F75B2D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E254A60D-F78A-4B9A-8F75-B4F56F75B2D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E254A60D-F78A-4B9A-8F75-B4F56F75B2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E254A60D-F78A-4B9A-8F75-B4F56F75B2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E254A60D-F78A-4B9A-8F75-B4F56F75B2D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35C6DE6D-40A8-4839-A706-9F3E6FBA524C}
+	EndGlobalSection
+EndGlobal
